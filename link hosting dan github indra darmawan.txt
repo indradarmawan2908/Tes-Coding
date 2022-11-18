@@ -1,0 +1,15 @@
+1. Link Hosting
+
+untuk register :
+https://indradarmawan380.000webhostapp.com/register
+
+untuk login : 
+https://indradarmawan380.000webhostapp.com/login
+
+untuk dashboard :
+https://indradarmawan380.000webhostapp.com/dashboard
+(bisa diakses apabila telah login)
+dan untuk My account, user list, logout (bisa diakses apabila telah login)
+
+2. Link Github 
+https://github.com/indradarmawan2908/Tes-Coding/tree/master/test_indra

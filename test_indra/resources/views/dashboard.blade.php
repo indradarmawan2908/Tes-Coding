@@ -14,6 +14,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                   <a class="dropdown-item" href="{{ route('dashboard.list') }}" class="list-group-item" >User List</a>
+                  <a class="dropdown-item" href="{{ route('blog.index') }}" class="list-group-item" >Data Kendaraan</a>
                   <a class="dropdown-item" href="{{ route('dashboard.logout') }}" class="list-group-item" >Logout</a>
                 </div>
               </li>
