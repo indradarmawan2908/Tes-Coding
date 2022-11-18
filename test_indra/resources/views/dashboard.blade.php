@@ -115,10 +115,10 @@ div.desc {
     text-align: center;
 }
 
-// box-sizing: border-box; 지정안하면 padding, border값의 영향을 받아 box 길이값이 틀어지기 때문에 꼭 추가필요.
+
 
 * {
-    box-sizing: border-box; // 박스의 가로 세로 모두 padding, border 값을 포함한 길이이다 라고 정의하는 거죵.
+    box-sizing: border-box; 
 
     -webkit-box-sizing: border-box;
 
@@ -128,10 +128,10 @@ div.desc {
 .responsive {
     padding: 0 0px;
     float: left;
-    width: 33%;  // 기본값으로 4개씩으로 설정
+    width: 33%;  
 }
 
-// 사용자 해상도가 700px 이하 일때는 2개씩 나열하자
+
 
 @media only screen and (max-width: 1000px) {
     .responsive {
